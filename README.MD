@@ -1,4 +1,4 @@
-# Hi, I'm Rakesh “Rroopesh” Hari 👋
+# Hi, I'm “Rroopesh” Hari 👋
 
 Data Scientist & Analytics Engineer focused on building **production-grade ML**, **MLOps**, and **applied GenAI**. I enjoy taking messy, real-world data problems from **0 → 1** and shipping reliable, documented solutions (CI/CD, testing, observability).
 
@@ -45,3 +45,4 @@ Data Scientist & Analytics Engineer focused on building **production-grade ML**,
 - **Tableau**: https://public.tableau.com/app/profile/rroopesh.hari/vizzes
 
 > Always happy to connect about data platforms, MLOps, or applied GenAI.
+
