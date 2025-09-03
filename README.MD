@@ -1,7 +1,7 @@
 # Hi there, I'm Rroopesh 👋  
 
 🚀 **Data Scientist | MLOps Engineer | Analytics Professional**  
-Building data-driven solutions that scale — from **clean data pipelines** to **deployed ML systems**.  
+Building data-driven solutions that scale from **clean data pipelines** to **deployed ML systems**.  
 
 ---
 
@@ -61,3 +61,4 @@ Building data-driven solutions that scale — from **clean data pipelines** to *
 ---
 
 ✨ *I’m passionate about designing ML systems that don’t just work in notebooks — but run reliably in production.*  
+
