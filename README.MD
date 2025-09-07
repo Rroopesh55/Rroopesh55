@@ -6,10 +6,10 @@ Building data-driven solutions that scale from **clean data pipelines** to **dep
 ---
 
 ## 🔥 About Me  
-- 🎯 4+ years of experience across **Data Science, ML Engineering, and Analytics**  
-- 🧩 Skilled in **MLOps pipelines, model deployment, and experiment tracking**  
-- 💡 Passionate about **GenAI & applied machine learning in real-world industries**  
-- 🌱 Currently expanding into **LLM fine-tuning, agentic AI, and production observability**  
+- 4+ years of experience across **Data Science, ML Engineering, and Analytics**  
+- Skilled in **MLOps pipelines, model deployment, and experiment tracking**  
+- Passionate about **GenAI & applied machine learning in real-world industries**  
+- Currently expanding into **LLM fine-tuning, agentic AI, and production observability**  
 
 ---
 
@@ -46,10 +46,10 @@ Building data-driven solutions that scale from **clean data pipelines** to **dep
 ---
 
 ## 🏆 Highlights  
-- 🥇 **Best Poster Award** — for *Speak-Note-Code* (Healthcare AI project)  
-- 📊 Delivered **analytics dashboards** driving key decisions (Tableau, Power BI)  
-- ⚙️ Built **0→1 ML systems** with reproducibility, deployment, and monitoring in mind  
-- 🌍 Experience across **healthcare, insurance, and supply chain analytics**  
+- **Best Poster Award** — for *Speak-Note-Code* (Healthcare AI project)  
+- Delivered **analytics dashboards** driving key decisions (Tableau, Power BI)  
+- Built **0→1 ML systems** with reproducibility, deployment, and monitoring in mind  
+- Experience across **healthcare, insurance, and supply chain analytics**  
 
 ---
 
@@ -61,4 +61,5 @@ Building data-driven solutions that scale from **clean data pipelines** to **dep
 ---
 
 ✨ *I’m passionate about designing ML systems that don’t just work in notebooks — but run reliably in production.*  
+
 
