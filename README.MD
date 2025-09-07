@@ -31,16 +31,16 @@ Building data-driven solutions that scale from **clean data pipelines** to **dep
 
 ## 🌟 Featured Projects  
 
-🔹 **[MLOPS_end_to_end_Deployment](https://github.com/Rroopesh55/MLOPS_end_to_end_Deployment)**  
+**[MLOPS_end_to_end_Deployment](https://github.com/Rroopesh55/MLOPS_end_to_end_Deployment)**  
 *End-to-end ML pipeline with packaging, CI/CD, Docker, and AWS deployment.*  
 
-🔹 **[speak-note-code](https://github.com/Rroopesh55/speak-note-code)**  
+**[speak-note-code](https://github.com/Rroopesh55/speak-note-code)**  
 *Healthcare AI pipeline: Whisper transcription → PHI masking → SOAP notes → ICD/claims hints.*  
 
-🔹 **[Truck_logo_Design_Measurements](https://github.com/Rroopesh55/Truck_logo_Design_Measurements)**  
+**[Truck_logo_Design_Measurements](https://github.com/Rroopesh55/Truck_logo_Design_Measurements)**  
 *YOLOv8 + OpenCV + Streamlit app that detects trucks and estimates real-world dimensions.*  
 
-🔹 **[Sentiment_Analysis_and_LLM](https://github.com/Rroopesh55/Sentiment_Analysis_and_LLM)**  
+**[Sentiment_Analysis_and_LLM](https://github.com/Rroopesh55/Sentiment_Analysis_and_LLM)**  
 *Clean baseline (TF-IDF + NB) vs. LLM zero-/few-shot sentiment analysis on reviews.*  
 
 ---
@@ -61,5 +61,6 @@ Building data-driven solutions that scale from **clean data pipelines** to **dep
 ---
 
 ✨ *I’m passionate about designing ML systems that don’t just work in notebooks — but run reliably in production.*  
+
 
 
